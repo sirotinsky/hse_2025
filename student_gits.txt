@@ -1,0 +1,31 @@
+cd /Users/kirill/git/hse_2025/student_gits
+git clone https://github.com/ARK-LEGAL/HSE_Arkhipov_Alexey.git
+git clone https://github.com/Evdbaranov/HSE_Evgeny_Baranov.git
+git clone https://github.com/dariabondarchuk/HSE_Daria_Bondarchuk.git
+git clone https://github.com/VitalyENPlus/HSE_GaidukVS_final.git
+git clone https://github.com/victoriegoreva/HSE_Vika_Goreva.git
+git clone https://github.com/Uspitz/HSE_Mikhail_Kataev.git
+git clone https://github.com/Evgeniyaedu/HSE_Evgeniya_Kosmachva.git
+git clone https://github.com/AlexMartynLT/HSE_Aleksey_Martynov.git
+git clone https://github.com/Mkdaniilla/HSE_Daniil_Mikhaylov.git
+git clone https://github.com/blondinkaizakon/HSE_Oksana_Petrovskaya.git
+git clone https://github.com/alexpiven/HSE_AlexeyPiven.git
+git clone https://github.com/BitaliyS/HSE_Vitaliy_Savinskiy.git
+git clone https://github.com/MariSimanova/HSE_Simanova_Marina.git
+git clone https://github.com/fkhak/HSE_Khakimova_Farida.git
+git clone https://github.com/BubblyBanana-legaltech/HSE_Katya_Shadrina.git
+git clone https://github.com/Be-beheaded/HSE_Shvetsova_Elena.git
+git clone https://github.com/Veronika8978/Veronika8978.git
+git clone https://github.com/3-14-ROMAN/HSE_Roman_Romanov.git
+git clone https://github.com/ttalawyer/HSE_Shadrina_Tatiana.git
+git clone https://github.com/mystuff4git/dz
+git clone https://github.com/a-a-mudruk/HSE-Mudruk-Anastasia-1
+git clone https://github.com/Igor-nn-92/HSE_Shakurov_Igor
+
+
+
+
+https://github.com/mystuff4git/dz #Стацурин Ярослав
+
+
+git clone https://github.com/a-a-mudruk/HSE-Mudruk-Anastasia.git

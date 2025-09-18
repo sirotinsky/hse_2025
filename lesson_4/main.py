@@ -73,6 +73,9 @@ class Contract:
         if region:
             self.region = region
 
+    def __hash__(self):
+        pass
+
     def __str__(self):
         return f'Договор между {self.sides[0]} и {self.sides[1]} в таком-то регионе {self.region}'
 

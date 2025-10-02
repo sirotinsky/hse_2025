@@ -1,6 +1,5 @@
 import time
 import requests
-import httpx
 from datetime import date, timedelta
 from bs4 import BeautifulSoup
 import traceback

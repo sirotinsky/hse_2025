@@ -22,9 +22,15 @@ git clone https://github.com/mystuff4git/dz
 git clone https://github.com/a-a-mudruk/HSE-Mudruk-Anastasia-1
 git clone https://github.com/Igor-nn-92/HSE_Shakurov_Igor
 
-
+6812178470:AAEovwfftpUD4XmuWwi6k2fBydI9TO5QnS8
+@testtesttest_333_bot
+python-telegram-bot==13.7
 
 https://github.com/mystuff4git/dz #Стацурин Ярослав
 
 
 git clone https://github.com/a-a-mudruk/HSE-Mudruk-Anastasia.git
+
+git clone https://github.com/AleksandrVNikolaev/HT_2025.git
+git clone https://github.com/ElenaMaier/HSE-Elena-Maier
+git clone https://github.com/Igor-nn-92/HSE_Igor_Shakurov

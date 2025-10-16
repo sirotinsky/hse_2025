@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  telegram-bot:
+    build:
+      context: lesson_8
+      dockerfile: Dockerfile
+    command: python main.py
+    restart: always
+    env_file:
+      - lesson_8/.env

@@ -14,7 +14,7 @@ from telegram.ext import Updater, Filters, CallbackContext, CommandHandler, Mess
 # con.commit()
 # con.close()
 
-TOKEN = '8313533739:AAGScIWHySnxNWtYDu8HOgQw863VmSTyQyQ'
+TOKEN = os.getenv('BOT_TOKEN')
 
 poll_button_text = 'Пройти опрос'
 poll_button = KeyboardButton(poll_button_text)
